@@ -1,5 +1,4 @@
 # Crypto-Overview-Dashboard
-This is a Spring API developed as an internship project in Levi9.
 
 The API serves as a overview dashboard for different cryptocurrencies. 
 The data source for the API is the Coin Cap API (https://docs.coincap.io).
